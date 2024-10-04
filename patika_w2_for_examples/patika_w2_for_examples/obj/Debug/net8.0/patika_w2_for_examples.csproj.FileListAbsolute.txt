@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\bin\Debug\net8.0\patika_w2_for_examples.exe
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\bin\Debug\net8.0\patika_w2_for_examples.deps.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\bin\Debug\net8.0\patika_w2_for_examples.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\bin\Debug\net8.0\patika_w2_for_examples.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\bin\Debug\net8.0\patika_w2_for_examples.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\refint\patika_w2_for_examples.dll
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.pdb
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\patika_w2_for_examples.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_for_examples\patika_w2_for_examples\obj\Debug\net8.0\ref\patika_w2_for_examples.dll

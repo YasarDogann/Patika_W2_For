@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_for_examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC55280E-4B7E-4C5C-A143-18E9168559F7}|patika_w2_for_examples\\patika_w2_for_examples.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week2\\patika_w2_for_examples\\patika_w2_for_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC55280E-4B7E-4C5C-A143-18E9168559F7}|patika_w2_for_examples\\patika_w2_for_examples.csproj|solutionrelative:patika_w2_for_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_for_examples\\patika_w2_for_examples\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w2_for_examples\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_for_examples\\patika_w2_for_examples\\Program.cs",
+              "RelativeToolTip": "patika_w2_for_examples\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:31:21.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
