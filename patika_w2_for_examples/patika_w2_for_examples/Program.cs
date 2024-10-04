@@ -13,13 +13,13 @@ namespace patika_w2_for_examples
 
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine(i+1+". "+y);
+                Console.WriteLine(i+1+". "+y);//madde madde sıralayıp güzel gözükmesi için i+1 yazdım
             }
 
 
             //  2-> 1 ile 20 arasındaki sayıları konsol ekranına yazdırınız.
             
-            for (int i = 1; i <= 20; i++)
+            for (int i = 1; i <= 20; i++)//default 0 değerinden başlatmadan 1'den başlattım
             {
                 Console.WriteLine(i);
             }
@@ -35,7 +35,7 @@ namespace patika_w2_for_examples
             // 2.YÖNNTEM TERNANY İF KULLANIMI
             for (int i = 1; i <= 20; i++)
             {
-               Console.WriteLine((i % 2 == 0) ? i : "");  
+               Console.WriteLine((i % 2 == 0) ? i : "");  //ternany ile koşul yazarak farklı bir yol ile sonucu ekranda gösterdim
             }
 
 
@@ -46,7 +46,7 @@ namespace patika_w2_for_examples
 
             for(int i =50; i<=150; i++)
             {
-                sum += i;
+                sum += i;//toplam içine i yani o anki basamaktaki sayıyı atıyoruz toplayarak gidiyoruz.
             }
             Console.WriteLine("Toplam: {0}",sum);
             
@@ -56,7 +56,7 @@ namespace patika_w2_for_examples
 
             int sumOddNum= 0, sumEvenNum = 0;
 
-            for (int i = 1; i <= 120; i++)
+            for (int i = 1; i <= 120; i++)//ternany kullanmadan uzatarak mod 2'si 1 ise tek değilse çift sayıdır
             {
                 if (i % 2 == 1)
                 {
